@@ -1,0 +1,13 @@
+/* ticket-view.css */
+.ticket-view .overflow-y-auto::-webkit-scrollbar {
+    width: 8px;
+}
+
+.ticket-view .overflow-y-auto::-webkit-scrollbar-thumb {
+    background: #4b5563;
+    border-radius: 10px;
+}
+
+.ticket-view .overflow-y-auto::-webkit-scrollbar-thumb:hover {
+    background: #6b7280;
+}
